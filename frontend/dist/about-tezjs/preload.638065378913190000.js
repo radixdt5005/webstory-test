@@ -1,0 +1,3 @@
+export default function(preload){
+            return preload(()=> import('./pre.638065378913190000.js'),["assets/header.638065378913190000.css","assets/header.component.638065378913190000.js","assets/_plugin-vue_export-helper.638065378913190000.js","assets/footer.component.638065378913190000.js","assets/about_tezjs.component.638065378913190000.js","assets/main.layout.638065378913190000.js"]);
+    }
